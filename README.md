@@ -23,3 +23,5 @@ Designed for nature enthusiasts, it enables users to view campground details, po
 - **Database**: MongoDB & Mongoose
 - **Authentication**: Passport.js
 - **Templating**: EJS
+
+Author: Rishav (Rishu)
